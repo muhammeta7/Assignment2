@@ -24,4 +24,6 @@ Boostrap Portfolio
 ![Contact](/screenshots/bs-connect.png)
 
 
+## Authors
 
+* **Muhammet Aydin**  - [Muhammet Aydin](https://github.com/muhammeta7/Assignment2)
