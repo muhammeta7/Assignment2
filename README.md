@@ -26,4 +26,4 @@ Boostrap Portfolio
 
 ## Authors
 
-* **Muhammet Aydin**  - [Muhammet Aydin](https://github.com/muhammeta7/Assignment2)
+**Muhammet Aydin**  - [Muhammet Aydin](https://github.com/muhammeta7)
